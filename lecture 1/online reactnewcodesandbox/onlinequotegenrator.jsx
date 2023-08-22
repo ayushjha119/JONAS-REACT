@@ -14,6 +14,9 @@ export default function App() {
     <div>
       <h1>{advice}</h1>
       <button onClick={getAdvice}>Get advice</button>
+      <p>
+        
+      </p>
     </div>
   );
 }
